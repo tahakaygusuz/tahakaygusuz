@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=HI%20THERE%20👋%%20TAHA%20KAYGUSUZ&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=HI%20THERE%20👋%20TAHA%20KAYGUSUZ&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
 
 **Who am i?**
 - 💻 I'm a 3rd grade law student at Marmara University.
